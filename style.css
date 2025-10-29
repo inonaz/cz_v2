@@ -1,0 +1,43 @@
+.atkinson-hyperlegible-regular {
+  font-family: "Atkinson Hyperlegible", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.atkinson-hyperlegible-bold {
+  font-family: "Atkinson Hyperlegible", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.atkinson-hyperlegible-regular-italic {
+  font-family: "Atkinson Hyperlegible", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.atkinson-hyperlegible-bold-italic {
+  font-family: "Atkinson Hyperlegible", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+body {
+  font-family: 'Atkinson Hyperlegible', Times New Roman, 'Segoe UI', Tahan, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+	background-color: #1C1B1A;
+}
+
+
+p {
+  font-size: 2.5rem;
+font-weight: 600;
+color: #CECDC3;
+}
+
+a {
+color: #FA9442;
+}
