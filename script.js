@@ -15,7 +15,22 @@ const sentences = [
 	"Cory Zanoni is sure his keys are around here somewhere.",
 	"Cory Zanoni is desperate for a nickname.",
 	"Cory Zanoni swears he lost that game of Connect 4 to a 7 year old on purpose.",
-	"Cory Zanoni spent the weekend practicing his whistlin' and is no better for it."
+	"Cory Zanoni spent the weekend practicing his whistlin' and is no better for it.",
+	“Cory Zanoni accidentally tied his shoe laces together.”,
+	“Cory Zanoni needs you to be impressed by his collection of delicious teas.”,
+	“Cory Zanoni clearly thought you’d have laughed at least once by this point in the story.”,
+	“Cory Zanoni definitely won’t stick the landing in this anecdote.”,
+	“Cory Zanoni got lost no less than five times trying to get here tonight.”,
+	“Cory Zanoni just realised his punchline didn’t get a laugh and is now trying to act like it was just part of the set-up.”,
+	“Cory Zanoni is somehow both weirdly sweaty and awkwardly dry.”,
+	“Cory Zanoni is, in fact, only 65% water.”,
+	“Cory Zanoni misses the days when ‘likes coffee’ was enough personality to get by.”,
+	“Cory Zanoni resists the urge to talk about his cats whenever someone mentions their kids.”,
+	“Cory Zanoni has been singing ‘How You Remind Me’ by Nickleback for 3 hours alone in a karaoke booth.",
+	"Cory Zanoni is terrified that a goatee would suit him.",
+	"Cory Zanoni has unjustified opinions about colour grading.",
+	"Cory Zanoni is still kind of annoyed by the Gossip Girl reveal.",
+	"Cory Zanoni searched for 'wigs for men?' five seperate times last week."
 ];
 
 document.getElementById("random-sentence").textContent = 
