@@ -39,5 +39,14 @@ color: #CECDC3;
 }
 
 a {
-color: #FA9442;
+  color: #FA9442;
 }
+
+ul {
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: #CECDC3;
+  }
+}
+
+
