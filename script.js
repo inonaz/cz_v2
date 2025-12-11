@@ -23,7 +23,7 @@ const sentences = [
 	"Cory Zanoni got lost no less than five times trying to get here tonight.",
 	"Cory Zanoni just realised his punchline didn’t get a laugh and is now trying to act like it was just part of the set-up.",
 	"Cory Zanoni is somehow both weirdly sweaty and awkwardly dry.",
-	"Cory Zanoni is, in fact, only 65% water.",
+	"Cory Zanoni is, in fact, only 45% water.",
 	"Cory Zanoni misses the days when ‘likes coffee’ was enough personality to get by.",
 	"Cory Zanoni resists the urge to talk about his cats whenever someone mentions their kids.",
 	"Cory Zanoni has been singing ‘How You Remind Me’ by Nickleback for 3 hours alone in a karaoke booth.",
